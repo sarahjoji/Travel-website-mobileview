@@ -17,15 +17,15 @@
 
 -Author
 
-License
+-License
 
-📌 Project Title
+## Project Title
 Travel Website – Mobile View
 
-🌐 Overview
+## Overview
 A mobile-first, visually engaging travel website designed using HTML and CSS. This project highlights popular tourist destinations, promotional content, and embedded multimedia — ideal for mobile users looking for travel inspiration.
 
-✨ Features
+## Features
 Mobile-first responsive layout
 
 Beautifully styled sections for destinations, guides, and offers
@@ -36,7 +36,7 @@ Interactive call-to-action components
 
 Clean, modern aesthetic with custom fonts and color themes
 
-📁 Project Structure
+## Project Structure
 plaintext
 Copy
 Edit
@@ -53,7 +53,7 @@ Google Fonts (Gilda Display, Urbanist)
 
 Responsive design principles (mobile-optimized layout)
 
-🚀 Getting Started
+## Getting Started
 To run the project locally:
 
 Clone the repository:
@@ -71,15 +71,10 @@ Edit
 open index.html
 No additional setup or dependencies required.
 
-📌 To Do / Future Improvements
-Add JavaScript interactivity (e.g., hamburger menu)
+## Author
+[Github](https://github.com/sarahjoji)
+[Email](saratumuhammadjoji@gmail.com)
 
-Improve accessibility (semantic HTML, ARIA tags)
-
-Extend responsiveness for tablets and desktops
-
-Add backend integration (e.g., booking, contact forms)
-
-📄 License
+## License
 This project is licensed under the MIT License.
 
