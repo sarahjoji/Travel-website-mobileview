@@ -7,7 +7,11 @@
 
 -Overview
 
+- Demo link
+
 -Features
+
+-Presentation link
 
 -Project Structure
 
@@ -25,6 +29,9 @@ Travel Website – Mobile View
 ## Overview
 A mobile-first, visually engaging travel website designed using HTML and CSS. This project highlights popular tourist destinations, promotional content, and embedded multimedia — ideal for mobile users looking for travel inspiration.
 
+## Demo link 
+[Demo link](https://travel-website-mobileview-2uvw.onrender.com)
+
 ## Features
 Mobile-first responsive layout
 
@@ -36,6 +43,8 @@ Interactive call-to-action components
 
 Clean, modern aesthetic with custom fonts and color themes
 
+## presentation lik
+https://www.loom.com/share/599f1157b5dd4f14a6264c4ffde8128c?sid=09dbf5dc-15e8-4b27-858f-6a32e7145ab1
 ## Project Structure
 plaintext
 Copy
@@ -44,7 +53,8 @@ Edit
 ├── styles.css         # Custom CSS styling
 ├── README.md          # Project documentation
 └── /pictures/         # Image and media assets
-🛠️ Technologies Used
+ ## Technologies Used
+
 HTML5
 
 CSS3
