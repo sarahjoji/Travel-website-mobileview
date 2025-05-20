@@ -1,3 +1,7 @@
+body {
+    overflow-x: clip;
+}
+
 .gilda-display-regular {
     font-family: "Gilda Display", serif;
     font-weight: 400;
@@ -33,27 +37,31 @@ nav {
     width: 50%;
     height: 50%;
     margin-top: 19px;
+    margin-left: -40px;
 }
 .trv {
     color: #25A59E;
 }
 .travelaround {
-    font-size: 300%;
-    margin-bottom: -70px;
+        margin-bottom: -70px;
+        margin-left: 30px;
 }
 .blurry{
     position: absolute;
+    width: 90%;
 }
 .Ellipse{
     position: relative;
     margin-top: 150px;
     margin-bottom: 80px;
-    margin-left: 18px;
+    margin-left: 1px;
+    width: 100%;
 }
 .couple{
-    margin-top: -288px;
+    margin-top: -259px;
     position: absolute;
-    
+    width: 100%;
+    margin-left: -10px;
 }
 .destination {
     margin-top: -60px;
@@ -75,6 +83,7 @@ nav {
 .RhineFall {
     margin-left: 15px;
     transform: rotate(180deg);
+    width: 95%;
 }
 .Rhine.Fall{
     margin-top:-20px ;
@@ -91,6 +100,7 @@ nav {
 .Sunter-Lake {
     transform: rotate(180deg);
     margin-left: 18px;
+    width: 95%;
 }
 .bluesea {
     margin-top: -20px;
@@ -122,18 +132,22 @@ nav {
 .Hot-air-ballon {
     margin-left: -9px;
     transform: rotate(180deg);
+    width: 105%;
 }
 .Oeschinec.lake {
     margin-left: 20px;
     transform: rotate(180deg);
+    width: 95%;
 }
 .find-your-destination {
     margin-left: 25px;
+    width: 90%;
 }
 .Negeri-di-atas-Awan {
     transform: rotate(180deg); 
     margin-bottom: -10px;
-    margin-left: -10px;  
+    margin-left: -10px; 
+    width: 104%; 
 }
 .help{
     font-size: 25px;
@@ -149,13 +163,13 @@ nav {
     font-size:20px ;
 }
 .detailstwo{
-    margin-left:180px ;
+    margin-left:155px ;
 }
  .more-details{
-    margin-left:170px  ;
+    margin-left:150px  ;
 }
 .detailsthree {
-    margin-left: -5px;
+    margin-left: -3px;
 }
 .trip{
     font-size:25px ;
@@ -171,7 +185,6 @@ nav {
     border: 5px solid #f2f2f2;
     padding-left: 5px;
     background-color: white;
-    width: 110%;
     margin-left: 5px;
     margin-bottom: 15px;
 }
@@ -179,7 +192,6 @@ nav {
     border: 5px solid #f2f2f2;
     padding-left: 5px;
     background-color: white;
-    width: 110%;
     margin-left: 5px;
 }
 .always {
@@ -187,7 +199,6 @@ nav {
     padding-top: 10px;
     padding-left: 10px;
     color: white;
-    width: 110%;
     margin-left: 5px;
     margin-bottom: 15px;
 }
@@ -211,9 +222,7 @@ nav {
     margin-right: -70px;
     margin-left: 50px;
 }
-.watch {
-    margin-left: 20px;
-}
+
 .clickhere {
     text-align: left;
     border: 3px solid #25A59E;
@@ -243,7 +252,6 @@ nav {
 .listop {
     background-color: #25A59E;
     height: 5px;
-    width: 335px;
     border: #25A59E;
     margin-left: 5px;
     
@@ -281,5 +289,8 @@ nav {
     margin-left: 20px;
 }
 video{
-    width: 120%;
+    width: 100%;
+}
+.shaping {
+    margin-left: -30px;
 }
