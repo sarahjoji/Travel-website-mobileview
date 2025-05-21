@@ -72,9 +72,7 @@ nav {
     margin-bottom: 30px;
     
 }
-.ballons {
-
-    
+.ballons {    
     margin-top: -20px ;
     margin-left: 25px;
     margin-bottom:  30px; 
@@ -91,12 +89,7 @@ nav {
     margin-bottom: 30px;
 
 }
-/* .Sunter.Lake{
-    margin-top: -20px;
-    margin-bottom: 30px;
-    margin-left: 20px;
-    
-} */
+
 .Sunter-Lake {
     transform: rotate(180deg);
     margin-left: 18px;
